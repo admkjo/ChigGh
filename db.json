@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "contacts": [
     {
       "firstName": aa,
       "secondName": "aaaa",
@@ -35,7 +35,7 @@
       "secondName": "ffff",
 	  "phoneNumber":"0123333"
 	  "email": "ereee@gmail.com",
-    },
+    }
   ]
   
 }
