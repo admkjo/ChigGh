@@ -1,5 +1,4 @@
-{
-  "contacts": [
+ 
     {
       "firstName": "aaa",
       "secondName": "aaaa",
@@ -36,6 +35,3 @@
 	  "phoneNumber":"0123333",
 	  "email": "ereee@gmail.com"
     }
-  ]
-  
-}
