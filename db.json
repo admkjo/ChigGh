@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "firstName": aa,
+      "secondName": "aaaa",
+	  "phoneNumber":"010201"
+	  "email": "asas@gmail.com",
+    },
+	 {
+      "firstName": bb,
+      "secondName": "bbbb",
+	  "phoneNumber":"98943232321"
+	  "email": "bbb@gmail.com",
+    },
+	 {
+      "firstName": cc,
+      "secondName": "cccc",
+	  "phoneNumber":"93944443"
+	  "email": "adjk@gmail.com",
+    },
+	 {
+      "firstName": dd,
+      "secondName": "dddd",
+	  "phoneNumber":"0303333334"
+	  "email": "aDDS@gmail.com",
+    },
+	 {
+      "firstName": ee,
+      "secondName": "eeee",
+	  "phoneNumber":"0123333"
+	  "email": "asads@gmail.com",
+    },
+	 {
+      "firstName": ff,
+      "secondName": "ffff",
+	  "phoneNumber":"0123333"
+	  "email": "ereee@gmail.com",
+    },
+  ]
+  
+}
