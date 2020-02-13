@@ -5,6 +5,6 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 public interface GetData {
-    @GET("/users")
+    @GET("/api/v1/clients")
     Call<List<RetroUsers>> getAllUsers();
 }
